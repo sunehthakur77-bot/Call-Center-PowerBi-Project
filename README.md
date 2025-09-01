@@ -1,12 +1,12 @@
 # 📊 Call Center Dashboard (Power BI)
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](https://github.com/sunehthakur77-bot/Call-Center-Project/blob/main/Dashboard%20Screen%20shot.png)
-
-
 ## 📌 Project Overview
 This project is an **interactive Power BI dashboard** that analyzes call center performance.  
 It provides insights into call volume, customer sentiment, service levels, and reasons for customer interactions.
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](https://github.com/sunehthakur77-bot/Call-Center-Project/blob/main/Dashboard%20Screen%20shot.png)
+
 
 The goal is to help stakeholders **monitor KPIs, identify trends, and improve customer service efficiency**.
 
