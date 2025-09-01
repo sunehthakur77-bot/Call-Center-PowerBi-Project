@@ -1,6 +1,4 @@
 # 📊 Call Center Dashboard (Power BI)
-
-## 📌 Project Overview
 This project is an **interactive Power BI dashboard** that analyzes call center performance.  
 It provides insights into call volume, customer sentiment, service levels, and reasons for customer interactions.
 
